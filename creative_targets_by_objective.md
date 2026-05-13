@@ -26,8 +26,7 @@
 | | Meta | VideoViews | 2 | 2 | 2 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 26 |
 | | Meta | Traffic | 2 | 4 | 2 | 5 | 5 | 2 | 2 | 4 | 2 | 2 | 4 | 2 | 3 | 36 |
 | **Easy Ups** | MESSAGE TRACK | | CLEO | | | | | | NEW LAUNCH? | | | | | 3 | 40 |
-| | Meta | Traffic | 2 | 2 | 1 | 2 | 1 | 1 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 22 |
-| | Meta | Unspecified ¹ | 1 | 2 | 1 | 1 | 1 | 0 | 3 | 3 | 2 | 1 | 2 | 1 | 2 | 18 |
+| | Meta | Traffic | 3 | 4 | 2 | 3 | 2 | 1 | 6 | 5 | 4 | 3 | 4 | 3 | 3 | 40 |
 | **BumBum** | MESSAGE TRACK | | LAUNCH | | TCF + LAUNCH | | | | | | | | | | 4 | 28 |
 | | TikTok | Reach | 4 | 4 | 4 | 6 | 6 | 4 | — | — | — | — | — | — | 2 | 28 |
 | | TikTok | VideoViews | 2 | 2 | 2 | 3 | 3 | 2 | — | — | — | — | — | — | 1 | 14 |
