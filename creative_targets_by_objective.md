@@ -60,13 +60,11 @@
 | Luvs | Meta | Reach | Branded-Meta; Branded KOL Sizzle |
 | Luvs | Meta | VideoViews | KOL |
 | Luvs | Meta | Traffic | Branded-Meta; Branded KOL Sizzle; KOL-Shop |
-| Easy Ups | Meta | Traffic | KOL |
-| Easy Ups | Meta | Unspecified ¹ | Branded-CDKOL; Branded KOL Sizzle |
+| Easy Ups | Meta | Traffic | KOL; Branded-CDKOL; Branded KOL Sizzle |
 | BumBum | TikTok | Reach | Branded Lo-fi TikTok; KOL |
 | BumBum | TikTok | VideoViews | KOL |
 | BumBum | TikTok | Traffic | Branded Lo-fi TikTok |
 
-¹ Easy Ups Branded-CDKOL and Branded KOL Sizzle had no objective specified in the source table.  
 ² BumBum creative activity ends after Dec-26; Monthly Avg and FY2627 calculated over Jul–Dec only (6 months).
 
 ---
@@ -95,8 +93,7 @@
 | **Luvs** | Meta | Reach | 31 | 31 | 0 |
 | | Meta | VideoViews | 26 | 0 | 26 |
 | | Meta | Traffic | 36 | 31 | 5 |
-| **Easy Ups** | Meta | Traffic | 22 | 0 | 22 |
-| | Meta | Unspecified ¹ | 18 | 18 | 0 |
+| **Easy Ups** | Meta | Traffic | 40 | 18 | 22 |
 | **BumBum** ² | TikTok | Reach | 28 | 14 | 14 |
 | | TikTok | VideoViews | 14 | 0 | 14 |
 | | TikTok | Traffic | 14 | 14 | 0 |
