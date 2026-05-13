@@ -10,7 +10,6 @@
 | | Meta | Traffic | 8 | 7 | 4 | 3 | 9 | 7 | 8 | 6 | 6 | 6 | 7 | 5 | 6 | 76 |
 | | TikTok | Reach | 6 | 6 | 3 | 2 | 7 | 6 | 7 | 4 | 3 | 4 | 4 | 3 | 5 | 55 |
 | | TikTok | VideoViews | 5 | 5 | 3 | 2 | 6 | 5 | 6 | 4 | 2 | 4 | 3 | 3 | 4 | 48 |
-| | TikTok | Traffic | 3 | 3 | 1 | 1 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | 1 | 2 | 22 |
 | **Cruisers 360** | MESSAGE TRACK | | BEB-R2D2 | | | | | | | | GOLDILOCKS | | | | 6 | 65 |
 | | Meta | Reach | 3 | 2 | 3 | 2 | 3 | 2 | 2 | 3 | 2 | 4 | 3 | 3 | 3 | 32 |
 | | Meta | VideoViews | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 24 |
@@ -47,7 +46,6 @@
 | Swaddlers | Meta | Traffic | Branded-Meta; KOL; KOL-Shop |
 | Swaddlers | TikTok | Reach | Branded-TikTok; Branded KOL Sizzle; KOL |
 | Swaddlers | TikTok | VideoViews | KOL |
-| Swaddlers | TikTok | Traffic | — |
 | Cruisers 360 | Meta | Reach | Branded-Meta; Branded KOL Sizzle |
 | Cruisers 360 | Meta | VideoViews | KOL |
 | Cruisers 360 | Meta | Traffic | Branded-Meta; Branded KOL Sizzle; KOL; KOL-Shop |
@@ -80,7 +78,6 @@
 | | Meta | Traffic | 76 | 31 | 45 |
 | | TikTok | Reach | 55 | 22 | 33 |
 | | TikTok | VideoViews | 48 | 0 | 48 |
-| | TikTok | Traffic | 22 | 0 | 0 |
 | **Cruisers 360** | Meta | Reach | 32 | 32 | 0 |
 | | Meta | VideoViews | 24 | 0 | 24 |
 | | Meta | Traffic | 65 | 32 | 33 |
